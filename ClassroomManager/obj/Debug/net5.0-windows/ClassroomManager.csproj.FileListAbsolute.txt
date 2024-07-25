@@ -1,0 +1,117 @@
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.exe
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.deps.json
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.runtimeconfig.json
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.runtimeconfig.dev.json
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.dll
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ref\ClassroomManager.dll
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.pdb
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.AssemblyReference.cache
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.Form1.resources
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.GenerateResource.cache
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.AssemblyInfoInputs.cache
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.AssemblyInfo.cs
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.CoreCompileInputs.cache
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.dll
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ref\ClassroomManager.dll
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.pdb
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.genruntimeconfig.cache
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.exe
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.deps.json
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.runtimeconfig.json
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.runtimeconfig.dev.json
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.dll
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ref\ClassroomManager.dll
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.pdb
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.AssemblyReference.cache
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.Form1.resources
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.GenerateResource.cache
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.GeneratedMSBuildEditorConfig.editorconfig
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.AssemblyInfoInputs.cache
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.AssemblyInfo.cs
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.CoreCompileInputs.cache
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.dll
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ref\ClassroomManager.dll
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.pdb
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.genruntimeconfig.cache
+G:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.Properties.Resources.resources
+E:\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.Properties.Resources.resources
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.exe
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.deps.json
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.runtimeconfig.json
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.runtimeconfig.dev.json
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.dll
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ref\ClassroomManager.dll
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.pdb
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.AssemblyReference.cache
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.Form1.resources
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.Properties.Resources.resources
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.GenerateResource.cache
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.AssemblyInfoInputs.cache
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.AssemblyInfo.cs
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.CoreCompileInputs.cache
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.dll
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ref\ClassroomManager.dll
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.pdb
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.genruntimeconfig.cache
+F:\Documents\TAFE Backup (post corruption)\Thurs - ICTPRG443 - C#\- Assignment 3 (17.11.22) Classroom App\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.xml
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.exe
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.deps.json
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.runtimeconfig.json
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.runtimeconfig.dev.json
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.dll
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ref\ClassroomManager.dll
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.pdb
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.xml
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.AssemblyReference.cache
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.Form1.resources
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.Properties.Resources.resources
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.GenerateResource.cache
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.AssemblyInfoInputs.cache
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.AssemblyInfo.cs
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.CoreCompileInputs.cache
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.dll
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ref\ClassroomManager.dll
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.pdb
+F:\Documents\TAFE Backup (post corruption)\COMPLETE\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.genruntimeconfig.cache
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.exe
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.deps.json
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.runtimeconfig.json
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.runtimeconfig.dev.json
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.dll
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.pdb
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.xml
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.AssemblyReference.cache
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.Form1.resources
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.Properties.Resources.resources
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.GenerateResource.cache
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.GeneratedMSBuildEditorConfig.editorconfig
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.AssemblyInfoInputs.cache
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.AssemblyInfo.cs
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.CoreCompileInputs.cache
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.dll
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\refint\ClassroomManager.dll
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.pdb
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.genruntimeconfig.cache
+G:\ICT50220-ADVPRO Semester 1\ICTPRG443 - C#\- Assignment 3 (17.11.22) COMPLETE\ICTPRG443_AT3\ClassroomManager\obj\Debug\net5.0-windows\ref\ClassroomManager.dll
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.exe
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.deps.json
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.runtimeconfig.json
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.runtimeconfig.dev.json
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.dll
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.pdb
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\bin\Debug\net5.0-windows\ClassroomManager.xml
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.Form1.resources
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.Properties.Resources.resources
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.GenerateResource.cache
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.AssemblyInfoInputs.cache
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.AssemblyInfo.cs
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.csproj.CoreCompileInputs.cache
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.dll
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\obj\Debug\net5.0-windows\refint\ClassroomManager.dll
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.pdb
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\obj\Debug\net5.0-windows\ClassroomManager.genruntimeconfig.cache
+F:\- GitHub Reviews\C#443 - ClassroomManager\Project Files\ClassroomManager\obj\Debug\net5.0-windows\ref\ClassroomManager.dll

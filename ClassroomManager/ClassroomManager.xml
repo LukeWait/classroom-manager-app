@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassroomManager</name>
+    </assembly>
+    <members>
+        <member name="T:ClassroomManager.Cell">
+            <summary>
+            Cell class
+            Purpose:    Provide class template for cell data
+            Implements: IComparable interface and CompareTo() method
+            </summary>
+            <remarks>Luke Wait
+                     30.10.22
+                     Version 1.0</remarks>
+        </member>
+        <member name="P:ClassroomManager.Cell.Col">
+            <summary>
+            Public property: Col (column of the cell)
+            </summary>
+        </member>
+        <member name="P:ClassroomManager.Cell.Row">
+            <summary>
+            Public property: Row (row of the cell)
+            </summary>
+        </member>
+        <member name="P:ClassroomManager.Cell.Name">
+            <summary>
+            Public property: Name (name of the cell)
+            </summary>
+        </member>
+        <member name="P:ClassroomManager.Cell.Colour">
+            <summary>
+            Public property: Colour (colour of the cell)
+            </summary>
+        </member>
+        <member name="M:ClassroomManager.Cell.#ctor(System.Int32,System.Int32,System.String,System.String)">
+            <summary>
+            Constructor method
+            </summary>
+            <param name="col">Column of the cell</param>
+            <param name="row">Row of the cell</param>
+            <param name="name">Name of the cell</param>
+            <param name="colour">Colour of the cell</param>
+        </member>
+        <member name="M:ClassroomManager.Cell.ToString">
+            <summary>
+            Overridden ToString() method
+            </summary>
+            <returns>Formatted string for display</returns>
+        </member>
+        <member name="M:ClassroomManager.Cell.ToCSVString">
+            <summary>
+            ToCSVString() method
+            </summary>
+            <returns>CSV formatted string for writing to a classroom csv</returns>
+        </member>
+        <member name="M:ClassroomManager.Cell.CompareTo(ClassroomManager.Cell)">
+            <summary>
+            Implemented CompareTo() method
+            </summary>
+            <param name="other">Cell object (other instance being compared)</param>
+            <returns>Returns 0 if both student names are equal,
+                     Returns -1 if this.Name is alphabetically less than other.Name,
+                     Returns 1 if this.Name is alphabetically greater than other.Name</returns>
+        </member>
+        <member name="T:ClassroomManager.Form1">
+            <summary>
+            Form1.Designer
+            </summary>
+        </member>
+        <member name="F:ClassroomManager.Form1.TOTAL_ROWS">
+            <summary>
+            Constant representing total rows in dataGridView
+            </summary>
+        </member>
+        <member name="F:ClassroomManager.Form1.TOTAL_COLS">
+            <summary>
+            Constant representing total columns in dataGridView
+            </summary>
+        </member>
+        <member name="M:ClassroomManager.Form1.#ctor">
+            <summary>
+            Form1() method
+            </summary>
+        </member>
+        <member name="M:ClassroomManager.Form1.ReadCSVData">
+            <summary>
+            ReadCSVData() method
+            </summary>
+        </member>
+        <member name="M:ClassroomManager.Form1.DisplayDataGrid">
+            <summary>
+            DisplayDataGrid() method
+            </summary>
+        </member>
+        <member name="M:ClassroomManager.Form1.UpdateLists">
+            <summary>
+            UpdateLists() method
+            </summary>
+        </member>
+        <member name="M:ClassroomManager.Form1.ClearData">
+            <summary>
+            ClearData() method
+            </summary>
+        </member>
+        <member name="M:ClassroomManager.Form1.DisplayStudentList">
+            <summary>
+            DisplayStudentList() method
+            </summary>
+        </member>
+        <member name="M:ClassroomManager.Form1.DisplayStudentList(System.String,System.Int32)">
+            <summary>
+            parameterised DisplayStudentList()
+            </summary>
+            <param name="student">Name of student searched by user</param>
+            <param name="index">found index returned from binary search</param>
+        </member>
+        <member name="M:ClassroomManager.Form1.BinarySearch(System.String)">
+            <summary>
+            BinarySearch() method
+            </summary>
+            <param name="studentName">Student to compare</param>
+            <returns>Index of found student</returns>
+        </member>
+        <member name="M:ClassroomManager.Form1.SaveToExternalFile">
+            <summary>
+            SaveToExternalFile() method
+            </summary>
+        </member>
+        <member name="M:ClassroomManager.Form1.IsSaveValid">
+            <summary>
+            IsSaveValid() method
+            </summary>
+            <returns>bool indicating whether all validation checks have passed</returns>
+        </member>
+        <member name="M:ClassroomManager.Form1.GetFileContent">
+            <summary>
+            GetFileContent() method
+            </summary>
+            <returns>fileContent string for writing all data to external file</returns>
+        </member>
+        <member name="M:ClassroomManager.Form1.ExitForm">
+            <summary>
+            ExitForm() method
+            </summary>
+        </member>
+        <member name="F:ClassroomManager.Form1.components">
+            <summary>
+             Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ClassroomManager.Form1.Dispose(System.Boolean)">
+            <summary>
+             Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ClassroomManager.Form1.InitializeComponent">
+            <summary>
+             Required method for Designer support - do not modify
+             the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ClassroomManager.Program.Main">
+            <summary>
+             The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:ClassroomManager.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ClassroomManager.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ClassroomManager.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
