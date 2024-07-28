@@ -3,7 +3,7 @@
 A Windows Forms application for managing classroom data with a focus on dataGridView manipulation.
 
 <p align="center">
-  <img src="https://github.com/LukeWait/classroom-manager-app/raw/main/ClassroomManager/images/classroom-manager-app-screenshot.png" alt="App Screenshot" width="600">
+  <img src="https://github.com/LukeWait/classroom-manager-app/raw/main/ClassroomManager/images/classroom-manager-screenshot.png" alt="App Screenshot" width="600">
 </p>
 
 ## Table of Contents
