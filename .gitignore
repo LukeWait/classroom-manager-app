@@ -1,2 +1,14 @@
-# Ignores
-docs/
+# Compiled files
+ClassroomManager/bin/
+ClassroomManager/obj/
+
+# User-specific files
+ClassroomManager/*.csproj.user
+/.vs
+
+# Backup files
+*.bak
+
+# Other temporary files
+*.tmp
+*.log

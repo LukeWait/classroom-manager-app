@@ -1,17 +1,20 @@
-﻿/****************************************************************************
+﻿/**************************************************************************************
 File name: Cell.cs
-Purpose:   1. Represents an instance of a classroom cell
-           2. Contains private variables accessable with public methods
-           3. Implements IComparable interface
-           4. Contains method overload of ToString()
-           5. Contains method to return csv formatted string
-           6. Contains CompareTo() method to compare Cell instances by name
-Author:    Luke Wait
-Date:      05.11.22
-Version:   1.0
-Notes:     
-****************************************************************************/
+Description: Represents a classroom cell, encapsulating cell data with public methods, 
+             supporting comparisons and string representations, and enabling CSV formatting.
+Version: 1.0.0
+Author: ┬  ┬ ┬┬┌─┌─┐┬ ┬┌─┐╦╔╦╗
+        │  │ │├┴┐├┤ │││├─┤║ ║
+        ┴─┘└─┘┴ ┴└─┘└┴┘┴ ┴╩ ╩
+Date: November 05, 2022
+License: MIT License
 
+Dependencies:
+.NET 5.0
+Visual Studio 2019 (v16.8+)/Visual Studio 2022
+
+GitHub Repository: https://github.com/LukeWait/classroom-manager-app
+**************************************************************************************/
 using System;
 
 namespace ClassroomManager
