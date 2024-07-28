@@ -1,7 +1,11 @@
 ﻿/**************************************************************************************
 File name: Cell.cs
-Description: Represents a classroom cell, encapsulating cell data with public methods, 
-             supporting comparisons and string representations, and enabling CSV formatting.
+Purpose:   1. Represents an instance of a classroom cell
+           2. Contains private variables accessable with public methods
+           3. Implements IComparable interface
+           4. Contains method overload of ToString()
+           5. Contains method to return csv formatted string
+           6. Contains CompareTo() method to compare Cell instances by name
 Version: 1.0.0
 Author: ┬  ┬ ┬┬┌─┌─┐┬ ┬┌─┐╦╔╦╗
         │  │ │├┴┐├┤ │││├─┤║ ║

@@ -1,7 +1,20 @@
 ﻿/**************************************************************************************
 File name: Form1.cs
-Description: Creates a GUI for interacting with classroom data, enabling reading, 
-             displaying, editing, saving, sorting, and searching of CSV data.
+Purpose:   1. Create GUI From application
+           2. Provide user-interaction (buttons, textboxes, menuitems)
+           3. Read classroom.csv data from external file (when user selects File - Open)
+              User prompted to select filepath
+           4. Display classroom data in text boxes and data grid after read
+           5. Change student names in data grid
+           6. Remove all student names from data grid with Clear button
+           7. Save cell and classroom data to opened external file (File - Save/Save Changes button)
+           8. Save cell and classroom data to new external file (File Save As)
+              User prompted to select filepath
+           9. Sort all student names and display as student list pop up with Sort button
+           10. Search (by student name) for student location in data grid using binary search
+               and display student list pop up with student highlighted with Find button
+           11. Save to Random Access File with Save RAF button
+           12. Exit the application with Exit button or File - Close
 Version: 1.0.0
 Author: ┬  ┬ ┬┬┌─┌─┐┬ ┬┌─┐╦╔╦╗
         │  │ │├┴┐├┤ │││├─┤║ ║
