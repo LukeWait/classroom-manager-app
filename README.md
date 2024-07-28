@@ -33,7 +33,7 @@ To install and run the application from source:
     git clone https://github.com/LukeWait/classroom-manager-app.git
     cd classroom-manager-app
     ```
-2. Open the solution file `ClassroomManager.sln` in Visual Studio.
+2. Open the solution file `ClassroomManagerApp.sln` in Visual Studio.
 3. Restore NuGet packages if prompted.
 4. Build or run the solution using Visual Studio.
 
@@ -72,7 +72,7 @@ classroom-manager-app/
 │   ├── Form1.resx                          # Main form resources
 │   └── Program.cs                          # Main program entry point
 ├── classroom_data_template.csv             # Example CSV file used to load into dataGridView
-└── ClassroomManager.sln                    # Visual Studio Solution file
+└── ClassroomManagerApp.sln                    # Visual Studio Solution file
 ```
 
 ### Data Storage
@@ -120,7 +120,7 @@ The application manages data by accessing a properly formatted CSV file, such as
 
 ### Creating New Releases
 - **Build the Application**: Use Visual Studio to compile and package the application into an executable (.exe) file. Ensure that all dependencies and necessary files are included in the build process.
-  - Open the solution file (`ClassroomManager.sln`) in Visual Studio.
+  - Open the solution file (`ClassroomManagerApp.sln`) in Visual Studio.
   - Restore any NuGet packages if prompted.
   - Build the solution by selecting `Build` > `Build Solution` from the menu.
   - Locate the compiled `.exe` file in the `bin/Release` or `bin/Debug` directory, depending on your build configuration.
